@@ -5,7 +5,7 @@ The todo list application is an app built with javascript where users can remove
 
 
 ## Live demo
-[Todo](https://prolajumokeoni.github.io/todo-list/)
+[Todo](hhttps://prolajumokeoni.github.io/todolist-simplified/)
 
 ## Built With
 - Html5
