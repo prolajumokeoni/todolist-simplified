@@ -1,0 +1,8 @@
+.description {
+  padding-left: 10px;
+}
+
+.checked {
+  text-decoration: line-through;
+  color: rgb(15, 146, 179);
+}
